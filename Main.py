@@ -8,6 +8,9 @@ app.config['SECRET_KEY'] = "testing12#"
 # from extensions import mongo, db
 import Agripreneur_App.Routes.User
 import Agripreneur_App.Auth.Token
+import Agripreneur_App.Routes.Leaderboard
+import Agripreneur_App.Routes.Gamification
+
 
 
 
